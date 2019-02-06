@@ -1,4 +1,4 @@
-# EXplore and Summarize Data (EDA)
+# Explore and Summarize Data (EDA)
 This project was completed as part of the course requirements of Udacity's [Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002) certification.
 
 ## Overview
