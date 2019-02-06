@@ -4,9 +4,9 @@ Exploratory data analysis (EDA) is an approach to analyse data sets for summariz
 This data set is provided by Udacity using the following research article: Cortez, P.; Cerdeira, A.; Almeida, F.; Matos, T.; Reis, J. Modeling wine preferences by data mining from physicochemical properties. Decision Support Systems. 2009, 47, 547-553.
 
 # Files
-EDA by Najlaa Shariefi.Rmd: R markdown file having all the code which generated graphs shown in the html version of the file:  EDA_by_Najlaa_Shariefi.html.
+ERD by Najlaa Shariefi.Rmd: R markdown file having all the code which generated graphs shown in the html version of the file:  ERD_by_Najlaa_Shariefi.html.
 
-EDA_by_Najlaa_Shariefi.html: The html copy of the project knited from rmd file, having all the graphs, analysis and summary of the project.
+ERD_by_Najlaa_Shariefi.html: The html copy of the project knited from rmd file, having all the graphs, analysis and summary of the project.
 
 wineQualityWhites.csv: Dataset for the project.
 
